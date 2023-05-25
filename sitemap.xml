@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.lp999.top/Gallery/wallpaper/index.html</loc>
+    
+    <lastmod>2023-05-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.lp999.top/Gallery/photo/index.html</loc>
+    
+    <lastmod>2023-05-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.lp999.top/Gallery/index.html</loc>
+    
+    <lastmod>2023-05-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://www.lp999.top/bangumi/index.html</loc>
     
     <lastmod>2023-05-25</lastmod>
