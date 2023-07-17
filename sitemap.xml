@@ -164,20 +164,6 @@
   </url>
   
   <url>
-    <loc>http://www.lp999.top/categories/%E8%8B%8D%E7%A9%B9%E5%A4%96%E5%8D%96/</loc>
-    <lastmod>2023-07-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.lp999.top/categories/JavaWeb/</loc>
-    <lastmod>2023-07-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://www.lp999.top/categories/%E6%BC%94%E7%A4%BA/%E6%B8%B8%E6%88%8F%E8%AF%84%E6%B5%8B/</loc>
     <lastmod>2023-07-17</lastmod>
     <changefreq>weekly</changefreq>
@@ -193,6 +179,20 @@
   
   <url>
     <loc>http://www.lp999.top/categories/%E6%BC%94%E7%A4%BA/%E6%B8%B8%E6%88%8F%E8%AF%84%E6%B5%8B/%E7%94%9F%E6%B4%BB%E8%B6%A3%E9%97%BB/vue/</loc>
+    <lastmod>2023-07-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.lp999.top/categories/%E8%8B%8D%E7%A9%B9%E5%A4%96%E5%8D%96/</loc>
+    <lastmod>2023-07-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.lp999.top/categories/JavaWeb/</loc>
     <lastmod>2023-07-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
